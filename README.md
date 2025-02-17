@@ -5,4 +5,3 @@ I'd like to emphasize that this is very much a prototype. The logic works, and t
 
 The main purpose of the project was to tangibly test the possibility of on-chain, decentralized financial derivatives, and the public code is only meant to 'show my work.'
 
-Link to complementary Medium article: 
